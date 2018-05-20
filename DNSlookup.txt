@@ -1,0 +1,29 @@
+STEP 1
+Check out this amazing tool. https://mxtoolbox.com/DNSLookup.aspx SuperTool Beta7
+
+STEP 2
+Enter the domain name in the search bar
+
+STEP 3
+Result will display in this form as shown below-
+ 
+When you enter www.google.com in domain name-
+
+www.google.com DNS Lookup 
+a:www.google.com Find Problems   
+
+Type         A
+Domain Name  www.google.com
+IP Address   172.217.15.68
+TTL          5 min
+
+IP Address is shown
+
+Google Inc. (AS15169)
+
+
+Test      DNS Record Published
+Result    DNS Record found
+
+
+
