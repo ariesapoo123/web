@@ -1,0 +1,38 @@
+Difference Between Library and API
+
+Library
+1. A library is a collection of functions / objects that serves one 
+particular purpose.
+2. Library is Reusable set of code or compilation of set of things which 
+you may need in order to  ease your process of development.
+3. ex: JQuery library, is a library of prewritten, cross-browser 
+Javascript animations and functions which you will need while making a 
+website.
+4. In other words, A Library is a chunk of code that you can call from 
+your own code, to help you do things more quickly/easily. 
+5. For example, a Bitmap Processing library will provide facilities for 
+loading and manipulating bitmap images, saving you having to write all 
+that code for yourself. A  library performs specific, well-defined 
+operations.
+
+
+API
+1.	An API is an interface for other programs to interact with your 
+program or library  without having direct access.
+2.	There will be back-end code to support the front-end code which 
+needs to be accessible to programmers for Custom Software Development.
+3.	Now how do a programmer access this front-end code? Yeah, the 
+API – the Interface to Library.
+4.	An API (Application Programming Interface) are the 
+functions/methods (the front-end code) in a library that you can call to 
+ask it to do things for you.
+5.	In the context of Android Development:
+      •	IDE: JetBrains IntelliJ
+      •	Library: android.app.Activity library (Class with all code)
+      •	API: Android API to interact with hardware, like the front 
+camera of an Android-based device. If your app needs to vibrate the 
+phone, you must use the Android API method like vibratePhone()
+      •	SDK: The Android Studio (additional tools like DDMS, Emulator, 
+ADB, etc.)
+
+
